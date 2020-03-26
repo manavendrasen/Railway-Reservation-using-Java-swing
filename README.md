@@ -1,5 +1,7 @@
 # railwayreservation
 
-List of features are:
-> Reserve your ticket using this aapp <br>
-> Add more
+A java swing based GUI app which is used to book railway tickets.
+
+# Technologies Used
+1. JAVA(Netbeans)
+2. MySQL as Database
