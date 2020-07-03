@@ -1,4 +1,4 @@
-# railwayreservation
+# Railway Reservation Desktop App
 A java swing based GUI app which is used to book railway tickets.
 
 # Technologies Used
