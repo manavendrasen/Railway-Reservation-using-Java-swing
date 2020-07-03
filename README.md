@@ -1,10 +1,9 @@
 # railwayreservation
-
 A java swing based GUI app which is used to book railway tickets.
 
 # Technologies Used
-1. JAVA(Netbeans)
-2. MySQL as Database
+1. Java-swing- Swing is a GUI widget toolkit for Java.
+2. MySQL as Database.
 
 ## Contributing
 To contribute, follow these steps:
